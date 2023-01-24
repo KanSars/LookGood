@@ -1,0 +1,35 @@
+.capital-letters {
+    text-transform: uppercase;
+}
+
+.horizontal-line {
+    margin-left: -34px;
+}
+
+.small__logo {
+    width: 38px;
+    height: 38px;
+}
+
+.logo-text_small {
+    margin-left: 12px;
+    width: 80px;
+    height: 13px;
+}
+
+.navigation__link {
+    list-style: none;
+    padding: 0 10px;
+}
+
+.footer__social__logo {
+    width: 26px;
+    height: 26px;
+}
+
+/*tablet*/
+@media (min-device-width: 768px) {
+    .horizontal-line {
+        margin-left: -80px;
+    }   
+}

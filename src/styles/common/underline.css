@@ -1,0 +1,19 @@
+.underline {
+    margin-top: 10px;
+}
+
+.underline_reverse {
+    transform: scale(-1, -1);
+}
+
+@media (min-device-width: 768px) {
+    .underline_medium {
+        width: 197px;
+        height: 13px;
+    }
+    
+    .underline_thin {
+        width: 204px;
+        height: 9px;
+    }
+}
