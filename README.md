@@ -1,2 +1,0 @@
-# LookGood
-Training project
